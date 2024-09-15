@@ -29,7 +29,7 @@ achieves state-of-the-art performance on the SemanticKITTI
 benchmark. 
 
 <p align="center">
-  <img src="figs/pipeline.png" width="800">
+  <img src="figs/pipeline.pdf" width="800">
 </p>
 
 
