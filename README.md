@@ -1,5 +1,5 @@
-# CIGOcc: Complementary Information Guided Occupancy Prediction
-via Multi-Level Representation Fusion
+# CIGOcc: Complementary Information Guided Occupancy Prediction via Multi-Level Representation Fusion
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/VitaLemonTea1/CIGOcc?color=green) 
  ![](https://img.shields.io/github/stars/VitaLemonTea1/CIGOcc?color=yellow)
@@ -29,7 +29,7 @@ achieves state-of-the-art performance on the SemanticKITTI
 benchmark. 
 
 <p align="center">
-  <img src="figs/pipeline.pdf" width="800">
+  <img src="figs/pipeline.png" width="800">
 </p>
 
 
