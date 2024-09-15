@@ -38,5 +38,5 @@ benchmark.
 Our code will be released soon.
 ## Qualitative Results
 <p align="center">
-  <img src="figs/pipeline.png" width="1000">
+  <img src="figs/visualization.png" width="1000">
 </p>
