@@ -27,3 +27,6 @@ incorporates knowledge distilled from SAM to further enhance
 prediction accuracy. Without increasing training costs, CIGOcc
 achieves state-of-the-art performance on the SemanticKITTI
 benchmark. 
+
+## News
+Our code will be released soon
