@@ -33,5 +33,10 @@ benchmark.
 </p>
 
 
-## News
-Our code will be released soon
+
+## Getting Start
+Our code will be released soon.
+## Qualitative Results
+<p align="center">
+  <img src="figs/pipeline.png" width="1000">
+</p>
