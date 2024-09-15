@@ -28,5 +28,10 @@ prediction accuracy. Without increasing training costs, CIGOcc
 achieves state-of-the-art performance on the SemanticKITTI
 benchmark. 
 
+<p align="center">
+  <img src="figs/pipeline.png" width="800">
+</p>
+
+
 ## News
 Our code will be released soon
